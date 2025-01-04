@@ -17,3 +17,9 @@ This repository contains the following CSV files that contains important informa
 7. **prepared_data_final.csv**: Outcome of my data preprocessing and filtering CSV files above. It was used in training models in SAS Studio.
 
 ---
+
+## 🤝 Data sources 
+
+- **https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats**
+- **https://www.kaggle.com/datasets/ryanschubertds/all-nba-aba-players-bio-stats-accolades**
+- **https://www.kaggle.com/datasets/wyattowalsh/basketball**
